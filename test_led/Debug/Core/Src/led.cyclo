@@ -1,0 +1,4 @@
+../Core/Src/led.c:15:6:Led_Toggle	3
+../Core/Src/led.c:25:13:hal_led_toggle	1
+../Core/Src/led.c:41:13:delay_int_count	2
+../Core/Src/led.c:45:13:reg_led_toggle	1
