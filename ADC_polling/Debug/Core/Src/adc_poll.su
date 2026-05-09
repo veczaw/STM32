@@ -1,0 +1,2 @@
+../Core/Src/adc_poll.c:13:9:ADCPoll_Initialize	24	static
+../Core/Src/adc_poll.c:18:7:ADCPoll_GetVolt	16	static
